@@ -72,7 +72,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 - Amplifies productivity 10x, cuts research time by 90%  
 
 📌 **Live:** [nyxcipher.ai](https://nyxcipher.ai/)
-📌 **Repo:** [Backend](https://github.com/OnChainMee/nyx-cipher/backend)
+📌 **Repo:** [Backend](https://github.com/T-rustdev/nyx-cipher/backend)
 
 ---
 
@@ -87,7 +87,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [Onchain Experiments](https://www.onchainexperiments.xyz/)
 
-- 📌 **Repo:** [Backend](https://github.com/OnChainMee/onchain-experiments-v1)
+- 📌 **Repo:** [Backend](https://github.com/T-rustdev/onchain-experiments-v1)
 
 ### **🔷 Ape Store - Base Token Launchpad**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/d4c61a64-88ef-41f3-b13c-a727e37a01c3">
@@ -100,7 +100,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [ape.store](https://ape.store/)
 
-- 📌 **Repo:** [Smart Contract_v1](https://github.com/OnChainMee/evm-base-pumfun-smart-contract-v1)
+- 📌 **Repo:** [Smart Contract_v1](https://github.com/T-rustdev/evm-base-pumfun-smart-contract-v1)
 
 ### **🔷 Yieldz Lending (Polygon)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/e16d639e-3c84-4e90-ac47-889373b477b0">
@@ -111,7 +111,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [yieldzprotocol.com](https://yieldzprotocol.com/)
 
-- 📌 **Repo:** [Backend](https://github.com/OnChainMee/360-Defi-SmartContract) / [Frontend](https://github.com/OnChainMee/Yieldz-Defi-Frontend)
+- 📌 **Repo:** [Backend](https://github.com/T-rustdev/360-Defi-SmartContract) / [Frontend](https://github.com/T-rustdev/Yieldz-Defi-Frontend)
 
 ---
 
@@ -128,7 +128,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [Slither](https://pvplabs.xyz/)
 
-- 📌 **Repo:** [Backend](https://github.com/OnChainMee/pvplabs/backend)/[Frontend](https://github.com/OnChainMee/pvplabs/frontend)
+- 📌 **Repo:** [Backend](https://github.com/T-rustdev/pvplabs/backend)/[Frontend](https://github.com/T-rustdev/pvplabs/frontend)
 
 ### **🟢 Luck.io (Fully Non-Custodial Solana Casino)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/fc0ed620-c590-4de5-8ef2-a05d0ccf2c7b">
@@ -147,7 +147,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [Luck.io](https://luck.io/)
 
-- 📌 **Repo:** [GitHub](https://github.com/OnChainMee/Luck.io-casino-game)
+- 📌 **Repo:** [GitHub](https://github.com/T-rustdev/Luck.io-casino-game)
 
 ### **🟢 Nutmarket (NFT Marketplace)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/fefc7452-7810-41a8-a92d-aec682b2e31f">
@@ -158,7 +158,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [nut.market](https://nut.market)
 
-- 📌 **Repo:** [GitHub](https://github.com/OnChainMee/nut.market-marketplace)
+- 📌 **Repo:** [GitHub](https://github.com/T-rustdev/nut.market-marketplace)
 
 ### **🟢 Critters Quest (NFT Game)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/92b8618c-9856-4756-a65c-bd22ee352b3d">
@@ -169,7 +169,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [critters.quest](https://critters.quest/)
 
-- 📌 **Repo:** [GitHub](https://github.com/OnChainMee/critters-quest)
+- 📌 **Repo:** [GitHub](https://github.com/T-rustdev/critters-quest)
 
 
 ### **🟢 Floppy Labs (NFT Non-Custodial Staking)**
@@ -181,7 +181,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [floppylabs.io](https://floppylabs.io)
 
-- 📌 **Repo:** [FloppyLabs](https://github.com/OnChainMee/floppylabs-nft-staking)
+- 📌 **Repo:** [FloppyLabs](https://github.com/T-rustdev/floppylabs-nft-staking)
 
 ### **🟢 Artplex (NFT Launchpad)**
 
@@ -191,7 +191,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [artplex.io](https://artplex.io/)
 
-- 📌 **Repo:** [Artplex](https://github.com/OnChainMee/artplex-nft-launchpad)
+- 📌 **Repo:** [Artplex](https://github.com/T-rustdev/artplex-nft-launchpad)
 
 ### **🟢 Ballistic Trading Platform**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/6529ad37-6c40-43e1-97e6-49c20489138f">
@@ -202,7 +202,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [ballistic.app](https://ballistic.app/)
 
-- 📌 **Repo:** [Smart Contracts](https://github.com/OnChainMee/ballistic-smart-contract)
+- 📌 **Repo:** [Smart Contracts](https://github.com/T-rustdev/ballistic-smart-contract)
 
 ---
 
@@ -234,7 +234,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - MultiSig enhanced security
 
-- 📌 **Repo:** [Backend](https://github.com/OnChainMee/COVault-App/tree/master/multisig-wallet)
+- 📌 **Repo:** [Backend](https://github.com/T-rustdev/COVault-App/tree/master/multisig-wallet)
 
 ### **🟡 BMP BRC20 (BRC20 Airdrop)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/caee3d58-4038-4463-aeb8-8bbc5dc4c365">
@@ -245,7 +245,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [bmpbrc.com](https://bmpbrc.com/)
 
-- 📌 **Repo:** [Backend](https://github.com/OnChainMee/BRC20-withdraw-Backend) / [Frontend](https://github.com/OnChainMee/BRC20-withdraw-Frontend)
+- 📌 **Repo:** [Backend](https://github.com/T-rustdev/BRC20-withdraw-Backend) / [Frontend](https://github.com/T-rustdev/BRC20-withdraw-Frontend)
 
 ---
 
@@ -260,7 +260,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [playzelo.xyz](https://playzelo.xyz/)
 
-- 📌 **Repos:** [Backend](https://github.com/OnChainMee/scissors/tree/master/backend) / [Frontend](https://github.com/OnChainMee/scissors/tree/master/frontend) / [Admin](https://github.com/OnChainMee/scissors/tree/master/admin)
+- 📌 **Repos:** [Backend](https://github.com/T-rustdev/scissors/tree/master/backend) / [Frontend](https://github.com/T-rustdev/scissors/tree/master/frontend) / [Admin](https://github.com/T-rustdev/scissors/tree/master/admin)
 
 ---
 
@@ -275,8 +275,8 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 🚀 Open to **freelance, full-time, or collaborative opportunities**
 
-📩 Contact: [Telegram @OnChainMee](https://t.me/OnChainMee)
-[Twitter @OnChainMee](https://x.com/OnChainMee)
+📩 Contact: [Telegram @T-rustdev](https://t.me/T-rustdev)
+[Twitter @T-rustdev](https://x.com/T-rustdev)
 
 ---
 
