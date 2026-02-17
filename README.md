@@ -11,8 +11,8 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 <p>
 <img alt="EVM" src="https://img.shields.io/badge/-EVM-627EEA?style=flat-square&logo=ethereum&logoColor=white" />
 <img alt="Solana" src="https://img.shields.io/badge/-Solana-00FFA3?style=flat-square&logo=solana&logoColor=white" />
-<img alt="Base" src="https://img.shields.io/badge/-Base-00A2FF?style=flat-square&logo=base&logoColor=white" />
-<img alt="ApeChain" src="https://img.shields.io/badge/-ApeChain-FF6F00?style=flat-square&logo=ethereum&logoColor=white" />
+<img alt="Base" src="https://img.shields.io/badge/-Base-00A2FF?style=flat-square&logo=basechain&logoColor=white" />
+<img alt="ApeChain" src="https://img.shields.io/badge/-ApeChain-FF6F00?style=flat-square&logo=ApeChain&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
