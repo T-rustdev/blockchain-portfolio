@@ -78,16 +78,16 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 ## 💎 EVM Projects
 
-### **🔷 Onchain-Experiments_V1(EVM)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/5074e654-17ea-4331-863f-c83f2e287152">
+### **🔷 Monstro.fun(Base)**
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/9e37e353-1ee9-4a50-8738-c2f1864749f1">
 
-- this project is a fully on-chain, generative NFT platform where artwork, metadata, and logic are permanently generated and stored directly on the blockchain, without external servers, IPFS
+- Monstro.fun is a gamified DeFi platform built around tokenized characters, staking pools, and referral-driven yield mechanics on Base.
 
-- 100% on-chain, generative NFT system where each token's image and metadata are generated in real-time using SVG code via smart contracts 
+- My focus was on delivering the core technical architecture — ensuring smooth integration between smart contracts, backend services, and the front-end dashboard 
 
-- 📌 **Live:** [Onchain Experiments](https://www.onchainexperiments.xyz/)
+- 📌 **Live:** [Monstoro](https://monstro.fun/)
 
-- 📌 **Repo:** [Backend](https://github.com/T-rustdev/onchain-experiments-v1)
+- 📌 **Repo:** [Smart Contract](https://github.com/T-rustdev/monstrodefi-smart-contract)
 
 ### **🔷 Ape Store - Base Token Launchpad**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/d4c61a64-88ef-41f3-b13c-a727e37a01c3">
@@ -147,7 +147,7 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 
 - 📌 **Live:** [Luck.io](https://luck.io/)
 
-- 📌 **Repo:** [GitHub](https://github.com/T-rustdev/Luck.io-casino-game)
+- 📌 **Repo:** [GitHub](https://github.com/luck-io-org/Luck.io-casino-game)
 
 ### **🟢 Nutmarket (NFT Marketplace)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/fefc7452-7810-41a8-a92d-aec682b2e31f">
@@ -227,25 +227,6 @@ I design systems that combine **smart contracts, AI agents, and real-world data*
 - 📌 **Live:** [arcusbtc.com](https://arcusbtc.com/)
 
 - 📌 **Repo:** [Backend](https://github.com/ArcusBTC/arcus-app) / [Frontend](https://github.com/ArcusBTC/ArcusLab-FE)
-
-### **🟡 AletheiasAgora (Bitcoin DApp)**
-
-- Ordinals minting, raffles, recursion, non-custodial staking
-
-- MultiSig enhanced security
-
-- 📌 **Repo:** [Backend](https://github.com/T-rustdev/COVault-App/tree/master/multisig-wallet)
-
-### **🟡 BMP BRC20 (BRC20 Airdrop)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/caee3d58-4038-4463-aeb8-8bbc5dc4c365">
-
-- Airdrop platform for BRC20 tokens (Taproot)
-
-- Supports Unisat, Leader, XVerse wallets
-
-- 📌 **Live:** [bmpbrc.com](https://bmpbrc.com/)
-
-- 📌 **Repo:** [Backend](https://github.com/T-rustdev/BRC20-withdraw-Backend) / [Frontend](https://github.com/T-rustdev/BRC20-withdraw-Frontend)
 
 ---
 
